@@ -1,4 +1,4 @@
-* 
+/* 
 Author Shubham Srivastava
 Problem Amazon Code Ninja - Shortest Sub-segment
 */
